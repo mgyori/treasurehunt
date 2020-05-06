@@ -1,8 +1,8 @@
 # treasurehunt
 
 ## Developers
-- Dankó Zsolt ak. dpara
-- Gyõri Márk ak. mgyori
+- DankÃ³ Zsolt aka. dpara
+- GyÃµri MÃ¡rk aka. mgyori
 
 ## References
 - http://jatekdij.hu/tartalom/tarsasjatek/Kincsvadasz.pdf
